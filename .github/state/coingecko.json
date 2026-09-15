@@ -180,6 +180,10 @@
           "base_denom": "ibc/489C406A3029B50486F991E468CB8A7D5F039757327A40B0684C530BFF96C543"
         },
         {
+          "chain_name": "dungeon",
+          "base_denom": "ibc/873B9E8BAA6E423691F506F6F9AC3151AA390F67D2B655A02EF406175F04FC4F"
+        },
+        {
           "chain_name": "dydx",
           "base_denom": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
         },
